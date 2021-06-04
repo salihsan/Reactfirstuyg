@@ -1,0 +1,11 @@
+.Content-div{
+    display:flex;
+    justify-content:space-around;
+    padding:36px 20px;
+    margin-bottom:38px;
+    background-color:lightgray;
+}
+.Content-div img{
+    margin-right: 10px;
+    margin-bottom: 58px;
+}

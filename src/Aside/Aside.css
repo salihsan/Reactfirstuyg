@@ -1,0 +1,9 @@
+.Aside-div{
+    border-bottom: 1px solid red;
+    width: 20%;
+    height: 50vh;
+    background-color:grey;
+    float: left;
+    margin-right:10px;
+    margin-bottom: 10vh;
+}
